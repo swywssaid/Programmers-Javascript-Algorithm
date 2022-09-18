@@ -20,4 +20,4 @@ console.log(a, b, c);
 solution(survey, choices);
 
 // 삼항연산자(es6는 아님):  조건 ? true일때 : false일 때
-// 구조 분해: 객체, 배열, 문자열
+// 구조 분해: 객체, 배열, 문자열 됨
